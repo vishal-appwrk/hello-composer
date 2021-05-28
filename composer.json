@@ -2,6 +2,7 @@
     "name": "vishal_garg/hello-composer",
     "description": "A simple hello world composer package",
     "type": "library",
+    "version": "1.0.0",
     "license": "MIT",
     "authors": [
         {
