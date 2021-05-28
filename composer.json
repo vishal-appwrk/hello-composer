@@ -5,13 +5,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Ogbonna Vitalis",
+            "name": "Vishal garg",
             "email": "vishal.garg@idera.com"
         }
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"vitalis\\HelloWorld\\": "src/"}
+        "psr-4": {"VishalGarg\\HelloWorld\\": "src/"}
     },
     "require": {}
 }
